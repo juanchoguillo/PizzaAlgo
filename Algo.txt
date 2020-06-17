@@ -1,3 +1,5 @@
-Decide which commerce do you want your pizza comes from 
-Order the pizza you want 
-Enjoy your pizza
+1.Decide which commerce do you want your pizza comes from 
+    1.a. Check is any discount in that commerce
+    1.b Input the coupon
+2.Order the pizza you want 
+3.Enjoy your pizza
